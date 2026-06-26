@@ -1,0 +1,6 @@
+{
+  "name": "Termux Desktop Pro",
+  "description": "A complete Linux workstation running inside Android, with both terminal and graphical desktop access available from a single unified interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
